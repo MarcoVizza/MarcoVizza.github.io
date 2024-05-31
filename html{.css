@@ -1,0 +1,33 @@
+html{
+    background-image: url(immagini/Background\ -\ Track\ and\ Field\ _\ Athletics\ track\,\ Field\ wallpaper\,\ Athletic\ wallpaper.jpeg);
+    background-size: cover;
+    background-position:bottom; /* Posiziona l'immagine al centro */
+    color: rgb(8, 8, 56); padding: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    text-align: center;
+}
+table{
+    table-layout: fixed;
+}
+
+.bordi{
+    border: 2px solid rgb(8, 8, 56);
+}
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Sfondo traslucido per il contenitore */
+    border-radius: 10px; /* Bordo arrotondato per il contenitore */
+}
+.foto {
+    width: 80%;
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Sfondo traslucido per il contenitore */
+    border-radius: 10px; /* Bordo arrotondato per il contenitore */
+}
